@@ -44,7 +44,7 @@
    
    **ยาเคมีบำบัดและยามะเร็ง (CYP3A4)**: ควบคุมยาต้านมะเร็งเช่น Venetoclax หากถูกยับยั้งโดยยาตัวอื่น (เช่น มีการใช้ร่วมกับ Omeprazole ที่ไปส่งผลกระทบ) จะเพิ่มความเสี่ยงต่อภาวะกลุ่มอาการสลายเซลล์มะเร็ง (Tumor Lysis Syndrome) ขั้นรุนแรง
 
-เอกสารอ้างอิง (Reference)
+**เอกสารอ้างอิง (Reference)**
 
 [reference https://en.wikipedia.org/wiki/Pharmacogenomics](https://en.wikipedia.org/wiki/Pharmacogenomics)
 
